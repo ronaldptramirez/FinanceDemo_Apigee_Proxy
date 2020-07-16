@@ -2,5 +2,5 @@
 <SpikeArrest async="false" continueOnError="false" enabled="true" name="SpikeArrest">
     <DisplayName>SpikeArrest</DisplayName>
     <Properties/>
-    <Rate>10pm</Rate>
+    <Rate>12pm</Rate>
 </SpikeArrest>
